@@ -63,8 +63,8 @@ This GIF illustrates various operations that users can perform on their bank acc
 – **Deposit Funds**: Similarly, the user enters the desired amount to deposit and clicks on the "Deposit" button.\
 – **Change Account Status**: The user can change the account status from "Active" to "Inactive" and vice versa. The GIF displays this status change.\
 – **Edit User Account**: In this section, the user can edit their account information (such as name, phone number, etc.) and then clicks on the "Save" button.
-![Performing Operations on Accounts](videos/demo%20(1).gif)
 
+![Performing Operations on Accounts](videos/demo%20(1).gif)
 
 3. **Adding and Deleting Accounts**
 This GIF focuses on the process of adding and deleting bank accounts.
