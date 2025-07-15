@@ -125,6 +125,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 Built with ❤️ by **Arshia Saberian**. For questions or collaborations, email me at [Arshia82sbn@gmail.com](mailto:Arshia82sbn@gmail.com).
 
 ---
-
-**Enjoy managing your bank data effortlessly!** 🎉
-
