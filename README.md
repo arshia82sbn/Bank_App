@@ -51,8 +51,8 @@ This GIF showcases the steps involved in logging into the banking application.
 • **Entering Information**: The user enters their username and password.\
 • **Login Button**: After entering the information, the user clicks on the "Login" button.\
 • **Login Confirmation**: Finally, the GIF shows that the user's information is verified, and they are redirected to the main page of the application. This section may include a simple animation indicating a successful login.
-![Log in proccess](videos/demo.gif)
 
+![Log in proccess](videos/demo.gif)
 
 2. **Performing Operations on Accounts**
 This GIF illustrates various operations that users can perform on their bank accounts.
@@ -72,8 +72,8 @@ This GIF focuses on the process of adding and deleting bank accounts.
 • **Account Management Page**: The GIF starts by displaying a page showing the list of existing accounts.\
 • **Adding an Account**: The user clicks on the "Add Account" button. A form for adding a new account opens, and the user enters the necessary information (such as account holder's name, account number, etc.). After filling out the form, the user clicks on the "Save" button, and the GIF shows that the new account has been added to the list.\
 • **Deleting an Account**: In the next step, the user selects one of the accounts and clicks on the "Delete" button. The GIF displays a confirmation message for deletion, and after user confirmation, the account is removed from the list.
-![Adding and Deleting Accounts](videos/demo%20(2).gif)
 
+![Adding and Deleting Accounts](videos/demo%20(2).gif)
 
 ## 🖥️ Key Components
 
