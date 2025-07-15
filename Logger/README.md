@@ -85,12 +85,3 @@ A comprehensive **singleton**-based logging utility tailored for thread-safe, ce
 - **Contextual Logging**: Integrate with `logging.LoggerAdapter` to inject request IDs or user IDs.
 
 ---
-
-## 📬 Feedback & Contributions
-
-Built with love by **Arshia Saberian** 💙. Questions or suggestions? Feel free to open an issue or submit a pull request!
-
----
-
-**Happy Logging!** 🚀
-
