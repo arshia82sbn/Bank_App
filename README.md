@@ -121,6 +121,3 @@ def on_close(self):
 - 🌐 **Web Integration**: Flask API back-end.
 
 ---
-
-Built with ❤️ by **Arshia Saberian**. Feedback welcome! ✉️
-
