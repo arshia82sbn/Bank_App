@@ -119,5 +119,4 @@ def on_close(self):
 - 📈 **Analytics Dashboard**: Charts for account stats.  
 - 🖥️ **Responsive Layout**: Adapt to window resizing.  
 - 🌐 **Web Integration**: Flask API back-end.
-
 ---
