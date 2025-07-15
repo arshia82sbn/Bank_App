@@ -122,6 +122,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📬 Contact
 
-Built with ❤️ by **Arshia Saberian**. For questions or collaborations, email me at [Arshia82sbn@gmail.com](mailto:Arshia82sbn@gmail.com).
+email me at [Arshia82sbn@gmail.com](mailto:Arshia82sbn@gmail.com).
 
 ---
