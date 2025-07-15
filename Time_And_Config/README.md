@@ -90,12 +90,3 @@ class DateTimeUtils:
 - **Enum Enhancements**: Use `ThemeMode` to automatically apply light/dark themes in your UI.
 
 ---
-
-## 📬 Feedback & Contributions
-
-Created by **Arshia Saberian**. Suggestions? Open an issue or pull request! 💙
-
----
-
-**Enjoy clean, centralized configuration and effortless time management!** ✨
-
